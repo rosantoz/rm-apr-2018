@@ -89,4 +89,4 @@ You have been asked to review the code and “improve” it by correcting errors
 * For larger good practice changes, it is fine to just describe these changes without actually making the change.
 
 Answer:
-I'm going to do this in a Pull Request format and adding my comments. Please check here: [link to the PR to be added]
+I'm going to do this in a Pull Request format and adding my comments. Please check here: https://github.com/rosantoz/rm-apr-2018/pull/1
